@@ -19,7 +19,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"gosdk-codegen/pkg/types"
+	"gopkg.me/selling-partner-api-sdk/pkg/types"
 )
 
 func TestBindStringToObject(t *testing.T) {

@@ -23,7 +23,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"gosdk-codegen/pkg/types"
+	"gopkg.me/selling-partner-api-sdk/pkg/types"
 )
 
 // This function binds a parameter as described in the Path Parameters

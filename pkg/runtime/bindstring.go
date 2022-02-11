@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"time"
 
-	"gosdk-codegen/pkg/types"
+	"gopkg.me/selling-partner-api-sdk/pkg/types"
 )
 
 // This function takes a string, and attempts to assign it to the destination
